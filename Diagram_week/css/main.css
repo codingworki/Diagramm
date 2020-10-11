@@ -1,0 +1,23 @@
+body {
+    background-color: #282832;
+
+}
+#ChartWeek {
+    background-color: #3B3B45;
+
+}
+#ChartMonth {
+    background-color: #3B3B45;
+
+}
+
+.row{
+    display: flex;
+
+}
+.section {
+
+}
+.section1 {
+  margin-top: 1000px;
+}
